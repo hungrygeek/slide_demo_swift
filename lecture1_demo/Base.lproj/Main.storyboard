@@ -24,7 +24,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <slider opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="t5B-L1-XwY">
-                                <rect key="frame" x="18" y="285" width="226" height="31"/>
+                                <rect key="frame" x="18" y="277" width="226" height="31"/>
                                 <connections>
                                     <action selector="drag:" destination="BYZ-38-t0r" eventType="valueChanged" id="Jdy-HL-sMS"/>
                                 </connections>
